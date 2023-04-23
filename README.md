@@ -14,4 +14,4 @@ Help save them and change history!
 
 ## Project Outcome
 - This study was able to predict which passengers were transported by the anomaly using records recovered from the spaceship's damaged computer system to help rescue crews and retrieve lost passengers.
-- Our model scored 80.60% in accuracy and placed us in the top 15% worldwide ranking.
+- Our model scored <b>80.60%</b> in accuracy and placed us in the top <b>15%</b> worldwide ranking.
