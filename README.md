@@ -1,4 +1,4 @@
-# Spaceship-Titanic-Kaggle-Competition
+# Spaceship Titanic Kaggle Competition
 
 ## Project Description
 
